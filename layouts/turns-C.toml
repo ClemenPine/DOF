@@ -1,0 +1,10 @@
+name = "turns-C"
+authors = ["ClemenPine"]
+board = "ortho"
+
+[layers]
+main = [
+    "q w l m b  k y o u ;",
+    "t r n s c  f h e i a",
+    "z x v g j  p d ' , .",
+]

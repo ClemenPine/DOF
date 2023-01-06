@@ -1,0 +1,10 @@
+name = "RSNTBJ"
+authors = ["bye"]
+board = "ortho"
+
+[layers]
+main = [
+    "x c l k v  q f o u  ",
+    "r s n t g  y h e i a",
+    "z w m d b  j p      ",
+]

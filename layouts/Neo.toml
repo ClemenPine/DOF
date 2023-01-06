@@ -1,0 +1,10 @@
+name = "Neo"
+authors = ["KLCord"]
+board = "ortho"
+
+[layers]
+main = [
+    "x v l c w  k h g f q ß '",
+    "u i a e o  s n r t d y  ",
+    "ü ö ä p z  b m , . j    ",
+]

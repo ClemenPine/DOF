@@ -1,0 +1,10 @@
+name = "Lumin"
+authors = ["KLCord"]
+board = "ortho"
+
+[layers]
+main = [
+    "y l u o '  g p m h v  ",
+    "i r e a .  d c t n s z",
+    "/ j , q ;  w f k b x  ",
+]

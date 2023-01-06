@@ -1,0 +1,10 @@
+name = "Gemini"
+authors = ["KayOS"]
+board = "ortho"
+
+[layers]
+main = [
+    "x l m g w  q f u o ,",
+    "s r t d y  b n e a i",
+    "v j k c z  p h ' ; .",
+]

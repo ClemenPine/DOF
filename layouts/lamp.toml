@@ -1,0 +1,11 @@
+name = "lamp"
+authors = ["TKwolf13"]
+board = "ortho"
+
+[layers]
+main = [
+    "' l m p q  z f o u ;",
+    "c r s t w  y n e i h",
+    "j x g d k  / b , . v",
+    "a                   ",
+]

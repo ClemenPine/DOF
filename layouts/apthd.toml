@@ -1,0 +1,10 @@
+name = "apthd"
+authors = ["Apsu"]
+board = "ortho"
+
+[layers]
+main = [
+    "w f y p b  q l o u '",
+    "r s t h k  j n e i a",
+    "x c g d v  z m / , .",
+]

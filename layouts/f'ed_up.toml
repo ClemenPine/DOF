@@ -1,0 +1,11 @@
+name = "f'ed_up"
+authors = ["lexycorn"]
+board = "ortho"
+
+[layers]
+main = [
+    "w c d l      p o u y",
+    "r s t h x  z n a e i",
+    "v g k m      b . q j",
+    "f ,                 ",
+]

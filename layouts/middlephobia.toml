@@ -1,0 +1,10 @@
+name = "middlephobia"
+authors = ["lexycorn"]
+board = "ortho"
+
+[layers]
+main = [
+    "w c d l ;  ' p u o y",
+    "r s t h x  z n e a i",
+    "v g f m ,  . b k q j",
+]

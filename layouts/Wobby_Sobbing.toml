@@ -1,0 +1,11 @@
+name = "Wobby_Sobbing"
+authors = ["lexycorn"]
+board = "ortho"
+
+[layers]
+main = [
+    "g w d p z  ' l u o y",
+    "c r t n q  j h e a i",
+    "v x k b      m ; . ,",
+    "f s                 ",
+]

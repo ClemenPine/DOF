@@ -1,0 +1,10 @@
+name = "rnst08"
+authors = ["RusDoomer"]
+board = "ortho"
+
+[layers]
+main = [
+    "x h g k z  w b u o j",
+    "r n s t d  , c i a e",
+    "' l y m v  f p . q ;",
+]

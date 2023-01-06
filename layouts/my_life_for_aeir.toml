@@ -1,0 +1,10 @@
+name = "my_life_for_aeir"
+authors = ["KayOS"]
+board = "ortho"
+
+[layers]
+main = [
+    "v f l p b  q z u y j",
+    "t s n d c  . a e i r",
+    "k m h g w  , o ' ; x",
+]

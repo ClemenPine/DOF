@@ -1,0 +1,10 @@
+name = "(p_q)"
+authors = ["RusDoomer"]
+board = "ortho"
+
+[layers]
+main = [
+    "h s i . ,  ; q p l y",
+    "r t e k x  f z o c b",
+    "n d a v j  ' w g m u",
+]

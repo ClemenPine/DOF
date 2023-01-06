@@ -1,0 +1,10 @@
+name = "layoutissimus"
+authors = ["semi"]
+board = "ortho"
+
+[layers]
+main = [
+    "p q m h x  y , o j z",
+    "n c t s l  . u a i e",
+    "k b f r d  v g w ' /",
+]

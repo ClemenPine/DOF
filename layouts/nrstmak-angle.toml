@@ -1,0 +1,10 @@
+name = "nrstmak-angle"
+authors = ["ClemenPine"]
+board = "angle"
+
+[layers]
+main = [
+    "q w y p b  j k o u ,",
+    "n r s t d  l h a e i",
+    "x c f g z  v m ' ; .",
+]

@@ -1,0 +1,10 @@
+name = "ev26"
+authors = ["EV"]
+board = "ortho"
+
+[layers]
+main = [
+    "w b l d f  j y o u ,",
+    "r s t c g  k n e i a",
+    "q x m p v  z h ' . ?",
+]

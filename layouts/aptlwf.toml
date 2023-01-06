@@ -1,0 +1,11 @@
+name = "aptlwf"
+authors = ["GNU先輩"]
+board = "ortho"
+
+[layers]
+main = [
+    "x c m y k  j w o u '",
+    "r s t h v  b n e i a",
+    "z f g d q  - p / , .",
+    "l                   ",
+]

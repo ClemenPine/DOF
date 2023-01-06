@@ -1,0 +1,10 @@
+name = "moyaimak"
+authors = ["stronglytyped"]
+board = "angle"
+
+[layers]
+main = [
+    "b l d w v  ' f o u j ; =",
+    "n r t s m  y h a e i ,  ",
+    "q x g c z  p k . - /    ",
+]

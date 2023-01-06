@@ -1,0 +1,10 @@
+name = "Ants"
+authors = ["Donji"]
+board = "ortho"
+
+[layers]
+main = [
+    "x p m d f  . r o y ,  ",
+    "a n t s g  q h e i u '",
+    "/ b w c z  ; l j k v  ",
+]

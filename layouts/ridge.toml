@@ -1,0 +1,11 @@
+name = "ridge"
+authors = ["Flarefin"]
+board = "angle"
+
+[layers]
+main = [
+    "v m l w q  z x o u ,",
+    "s t r d g  f n a e i",
+    "k j p c    b h ' ; .",
+    "y                   ",
+]

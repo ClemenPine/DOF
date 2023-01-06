@@ -1,0 +1,10 @@
+name = "jrstai"
+authors = ["lexycorn"]
+board = "ortho"
+
+[layers]
+main = [
+    "j r s t b  z g m d i",
+    "q w y p e  u f c a '",
+    "k v l n x  h o / , .",
+]

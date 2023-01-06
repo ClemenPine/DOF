@@ -1,0 +1,10 @@
+name = "ev's-slightly-modified-nrstmak"
+authors = ["EV"]
+board = "ortho"
+
+[layers]
+main = [
+    "f y r p b  j k o u ,",
+    "s c n t d  l h e i a",
+    "v q x w g  z m ' . ;",
+]

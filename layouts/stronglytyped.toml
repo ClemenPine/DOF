@@ -1,0 +1,10 @@
+name = "stronglytyped"
+authors = ["EV"]
+board = "ortho"
+
+[layers]
+main = [
+    "b z l f g  j k o u ,",
+    "n r t s w  y h e i a",
+    "x q m c v  p d ' . ;",
+]

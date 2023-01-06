@@ -1,0 +1,11 @@
+name = "NRST-ex"
+authors = ["casuanoob"]
+board = "ortho"
+
+[layers]
+main = [
+    "x w f p b  j l u y '",
+    "n r s t g  k h a i o",
+    "; v c d q  z m , . /",
+    "e                   ",
+]

@@ -1,0 +1,11 @@
+name = "ev15"
+authors = ["unknown"]
+board = "ortho"
+
+[layers]
+main = [
+    "b x l d w  - u o f '",
+    "t r n c g  , i e s a",
+    "q z m p v  ; . ⇯ j ⇧",
+    "y h k               ",
+]

@@ -1,0 +1,11 @@
+name = "Maks-Ex"
+authors = ["CN"]
+board = "ortho"
+
+[layers]
+main = [
+    "; , u d .  b f l j z",
+    "a o i t g  w s n r h",
+    "/ ' y p k  v c m x q",
+    "e                   ",
+]

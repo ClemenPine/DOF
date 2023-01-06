@@ -1,0 +1,10 @@
+name = "sturdym"
+authors = ["RubberDuck"]
+board = "ortho"
+
+[layers]
+main = [
+    "v m l c p  x f o u j",
+    "s t r d y  . n a e i",
+    "z k g w q  b h ' ; ,",
+]

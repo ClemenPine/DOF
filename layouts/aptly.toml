@@ -1,0 +1,11 @@
+name = "aptly"
+authors = ["GNU先輩"]
+board = "ortho"
+
+[layers]
+main = [
+    "x c m y k  j p o u '",
+    "r s t h v  b n e i a",
+    "z w g d q  - f / , .",
+    "l                   ",
+]

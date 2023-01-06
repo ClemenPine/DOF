@@ -1,0 +1,10 @@
+name = "zekykern"
+authors = ["furtissim2"]
+board = "ortho"
+
+[layers]
+main = [
+    "z m c p g  q l u o y  ",
+    "r n s t b  j h e a i '",
+    "x f w d ;  k v / . ,  ",
+]

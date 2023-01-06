@@ -1,0 +1,11 @@
+name = "aptmak30"
+authors = ["Apsu"]
+board = "ortho"
+
+[layers]
+main = [
+    "; w f p b  q l u y '",
+    "r s t h k  j n a i o",
+    "x c g d v  z m , . /",
+    "e                   ",
+]

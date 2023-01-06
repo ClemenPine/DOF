@@ -1,0 +1,10 @@
+name = "tests"
+authors = ["bye"]
+board = "ortho"
+
+[layers]
+main = [
+    "x c l d k  q y o u  ",
+    "r n h t b  p s a e i",
+    "z f m g v  j w      ",
+]

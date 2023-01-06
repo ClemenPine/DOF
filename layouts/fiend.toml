@@ -1,0 +1,11 @@
+name = "fiend"
+authors = ["Björnflugel"]
+board = "ortho"
+
+[layers]
+main = [
+    "w l y p b  ; m o u '",
+    "c r s t g  q n e i f",
+    "x j v d k  z h , . /",
+    "a                   ",
+]

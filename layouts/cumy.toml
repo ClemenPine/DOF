@@ -1,0 +1,10 @@
+name = "cumy"
+authors = ["KayOS"]
+board = "ortho"
+
+[layers]
+main = [
+    "n l c u m  y ' v h r",
+    "d g q f b  j ; z w s",
+    "i a k p o  . , x t e",
+]

@@ -1,0 +1,10 @@
+name = "whorf2"
+authors = ["whorf"]
+board = "angle"
+
+[layers]
+main = [
+    "f l n d m  v w o u ,  ",
+    "s r h t q  g y a e i /",
+    "j b k x z  p c ' ; .  ",
+]

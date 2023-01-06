@@ -1,0 +1,11 @@
+name = "blutack"
+authors = ["furtissim2"]
+board = "ortho"
+
+[layers]
+main = [
+    "w f l d k  ; u o y b",
+    "c s n t p  / e a i h",
+    ", v m g x  z ' . j q",
+    "r                   ",
+]

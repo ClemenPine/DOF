@@ -1,0 +1,10 @@
+name = "qwertwo"
+authors = ["KayOS"]
+board = "ortho"
+
+[layers]
+main = [
+    "q w e r t  y b l u .",
+    "a s d f m  p c n i o",
+    "' z ; k j  v g h , x",
+]

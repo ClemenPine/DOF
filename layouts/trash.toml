@@ -1,0 +1,10 @@
+name = "trash"
+authors = ["nyx"]
+board = "ortho"
+
+[layers]
+main = [
+    "v l o c x  ' f p u y",
+    "t r a s g  k d n e i",
+    "q j . w z  h m b , /",
+]

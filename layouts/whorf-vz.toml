@@ -1,0 +1,10 @@
+name = "whorf-vz"
+authors = ["GalileoBlues"]
+board = "ortho"
+
+[layers]
+main = [
+    "f l h d v  z y o u ,",
+    "s r n t m  g c a e i",
+    "x j b k q  p w ' ; .",
+]

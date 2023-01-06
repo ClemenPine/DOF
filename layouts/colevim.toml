@@ -1,0 +1,10 @@
+name = "colevim"
+authors = ["Donji"]
+board = "ortho"
+
+[layers]
+main = [
+    "z w f b p  ; m u y .  ",
+    "a r s t g  , n e i o '",
+    "x v c d q  l h j k /  ",
+]

@@ -1,0 +1,10 @@
+name = "osmium"
+authors = ["RusDoomer"]
+board = "ortho"
+
+[layers]
+main = [
+    "t b ' u m  d i q w n",
+    "s v ; f ,  c p x . o",
+    "e k j g y  r l z h a",
+]

@@ -1,0 +1,11 @@
+name = "banana"
+authors = ["ClemenPine"]
+board = "ortho"
+
+[layers]
+main = [
+    "q m l b j  / f u y '",
+    "r n t s c  p h e i o",
+    "x z v g w  k d ; , .",
+    "a                   ",
+]

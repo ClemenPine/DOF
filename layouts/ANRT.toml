@@ -1,0 +1,10 @@
+name = "ANRT"
+authors = ["bye"]
+board = "ortho"
+
+[layers]
+main = [
+    "q h l d k  j c y u  ",
+    "a n r t b  f s i e o",
+    "z p m g v  x w      ",
+]

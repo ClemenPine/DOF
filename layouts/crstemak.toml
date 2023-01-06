@@ -1,0 +1,11 @@
+name = "crstemak"
+authors = ["GNU先輩"]
+board = "ortho"
+
+[layers]
+main = [
+    "j w f p k  x l u y '",
+    "c r s t b  m n a i o",
+    "; v g d q  z h , . /",
+    "e                   ",
+]

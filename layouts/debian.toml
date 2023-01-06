@@ -1,0 +1,10 @@
+name = "debian"
+authors = ["ClemenPine"]
+board = "ortho"
+
+[layers]
+main = [
+    "q w c g k  j f o u ;",
+    "l r s t d  b n e i a",
+    "x z y m v  p h ' , .",
+]

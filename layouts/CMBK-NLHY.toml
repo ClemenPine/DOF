@@ -1,0 +1,10 @@
+name = "CMBK-NLHY"
+authors = ["bye"]
+board = "ortho"
+
+[layers]
+main = [
+    "x c m b k  q l o u  ",
+    "r s t d w  y n e i a",
+    "z f g p v  j h      ",
+]

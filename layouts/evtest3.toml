@@ -1,0 +1,11 @@
+name = "evtest3"
+authors = ["unknown"]
+board = "ortho"
+
+[layers]
+main = [
+    "w c l d g  - u o . y",
+    "r s n t b  , h e a i",
+    "q v m p k  z ; / = j",
+    "x f '               ",
+]

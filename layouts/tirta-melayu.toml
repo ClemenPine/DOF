@@ -1,0 +1,10 @@
+name = "tirta-melayu"
+authors = ["adi.lela"]
+board = "angle"
+
+[layers]
+main = [
+    "j u m c q  ; p o h .",
+    "s i k t l  f n a r e",
+    "x z w g d  v b ' y ,",
+]

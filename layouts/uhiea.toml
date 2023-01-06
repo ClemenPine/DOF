@@ -1,0 +1,10 @@
+name = "uhiea"
+authors = ["stronglytyped"]
+board = "ortho"
+
+[layers]
+main = [
+    "j y o u z  k d l c w q",
+    "h i e a .  g t n s r v",
+    "- / ' , ;  p b m f x  ",
+]

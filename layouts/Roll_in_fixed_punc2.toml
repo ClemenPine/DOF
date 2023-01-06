@@ -1,0 +1,11 @@
+name = "Roll_in_fixed_punc2"
+authors = ["lexycorn"]
+board = "ortho"
+
+[layers]
+main = [
+    "w g d l q  ' p u o y",
+    "r c t h j  z n e a i",
+    "x v k m      b ; . ,",
+    "f s                 ",
+]

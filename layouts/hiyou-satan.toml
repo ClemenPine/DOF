@@ -1,0 +1,10 @@
+name = "hiyou-satan"
+authors = ["RusDoomer"]
+board = "ortho"
+
+[layers]
+main = [
+    "k y o u -  v w d p l /",
+    "h i e a ,  c s t n r x",
+    "' j z . ;  f g m b q =",
+]

@@ -1,0 +1,10 @@
+name = "dvim"
+authors = ["Donji"]
+board = "ortho"
+
+[layers]
+main = [
+    "z m l d f  , u o y '",
+    "r n t s g  p a e i h",
+    "x b w c v  / k j . q",
+]

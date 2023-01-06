@@ -1,0 +1,10 @@
+name = "scelestial"
+authors = ["furtissim2"]
+board = "ortho"
+
+[layers]
+main = [
+    "v m d p b  q l u o y  ",
+    "s c t n f  j r e a i '",
+    "g w k h /  x z ; , .  ",
+]

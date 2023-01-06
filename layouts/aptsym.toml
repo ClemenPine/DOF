@@ -1,0 +1,10 @@
+name = "aptsym"
+authors = ["Apsu"]
+board = "ortho"
+
+[layers]
+main = [
+    "w c d l ,  . y o u q",
+    "r s t h k  p n e i a",
+    "v b g m '  / f j x z",
+]

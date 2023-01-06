@@ -1,0 +1,11 @@
+name = "trendei-fs"
+authors = ["unknown"]
+board = "ortho"
+
+[layers]
+main = [
+    "k v l b w  , u o y .",
+    "t r n d c  - h e i a",
+    "q x m p g  ⇧ ⇯ ' j /",
+    "f s z               ",
+]

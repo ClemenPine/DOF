@@ -1,0 +1,10 @@
+name = "castra"
+authors = ["trulicups"]
+board = "ortho"
+
+[layers]
+main = [
+    "b p d l k  q w u o y",
+    "c s t r ,  . n e a i",
+    "v g f h '  ; m z x j",
+]

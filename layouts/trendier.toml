@@ -1,0 +1,10 @@
+name = "trendier"
+authors = ["ClemenPine"]
+board = "ortho"
+
+[layers]
+main = [
+    "k l h f z  b w o u ;",
+    "t r n s y  c d e i a",
+    "q j m v x  p g ' , .",
+]

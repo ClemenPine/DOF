@@ -1,0 +1,10 @@
+name = "lela-rus"
+authors = ["adi.lela"]
+board = "angle"
+
+[layers]
+main = [
+    "y l w k j  z f o u .",
+    "c r s t v  b n a e i",
+    "x g m d q  p h ' ; ,",
+]

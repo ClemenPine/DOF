@@ -1,0 +1,11 @@
+name = "narts-mv"
+authors = ["ClemenPine"]
+board = "ortho"
+
+[layers]
+main = [
+    "z m l g b  / f u y '",
+    "r n t s c  p h e i o",
+    "q x v w j  k d ; , .",
+    "a                   ",
+]

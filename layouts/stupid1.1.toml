@@ -1,0 +1,10 @@
+name = "stupid1.1"
+authors = ["unknown"]
+board = "ortho"
+
+[layers]
+main = [
+    ", u o r z  k y d w b",
+    "a i e n j  f h t c s",
+    "; . ' l q  v p m g x",
+]

@@ -1,0 +1,10 @@
+name = "irstmak"
+authors = ["ClemenPine"]
+board = "ortho"
+
+[layers]
+main = [
+    "y w c g p  j l u , '",
+    "i r s t b  m n e a o",
+    "q x f d v  k h z . ;",
+]

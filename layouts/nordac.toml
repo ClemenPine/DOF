@@ -1,0 +1,10 @@
+name = "nordac"
+authors = ["VB"]
+board = "ortho"
+
+[layers]
+main = [
+    "b c m p k  q w o u ö  ",
+    "n s t h d  j r a e i '",
+    "x g v y f  . z l ä å ,",
+]
