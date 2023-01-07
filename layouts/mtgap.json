@@ -1,0 +1,14 @@
+{
+    "name": "mtgap",
+    "authors": [
+        "unknown"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "y p o u j  k d l c w x",
+            "i n e a ,  m h t s r z",
+            "; ? ' . -  b f g v q  "
+        ]
+    }
+}

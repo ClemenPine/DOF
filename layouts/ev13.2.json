@@ -1,0 +1,14 @@
+{
+    "name": "ev13.2",
+    "authors": [
+        "unknown"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "y w o u z  k d l m v",
+            "i s e a .  p t n c r",
+            "j x ' , ;  b f h g q"
+        ]
+    }
+}

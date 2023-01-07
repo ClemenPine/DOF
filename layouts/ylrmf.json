@@ -1,0 +1,14 @@
+{
+    "name": "ylrmf",
+    "authors": [
+        "ClemenPine"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "y l r m f  z k o u j",
+            "s h n g c  b t a i e",
+            ". ; v w q  p d x , '"
+        ]
+    }
+}

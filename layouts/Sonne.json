@@ -1,0 +1,14 @@
+{
+    "name": "Sonne",
+    "authors": [
+        "Sagittarius"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "\u00e4 u o m ,  p d c l q '",
+            "a i e s f  g h t n r j",
+            "\u00fc . \u00f6 w v  z k b x y  "
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "name": "nstrpine-ev",
+    "authors": [
+        "EV"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "b c d l w  j y o u .",
+            "n s t r v  p h e i a",
+            "x z g m q  k f ' , ;"
+        ]
+    }
+}

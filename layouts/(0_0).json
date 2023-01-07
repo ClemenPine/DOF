@@ -1,0 +1,14 @@
+{
+    "name": "(0_0)",
+    "authors": [
+        "RusDoomer"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "o k j y p  r v d g a",
+            "q . m f b  h z i c '",
+            ", u l s w  x n t e ;"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "name": "ADNW-English-Bigram",
+    "authors": [
+        "KLCord"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "q y u . ?  z m l d b p",
+            "s i e a o  h n r t c g",
+            "j ) ' , (  f x w k v  "
+        ]
+    }
+}

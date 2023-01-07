@@ -1,0 +1,14 @@
+{
+    "name": "stupid2",
+    "authors": [
+        "unknown"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "q b d l z  j f u o y",
+            "r c t s w  m n e a i",
+            "; p k v g  x h . ' ,"
+        ]
+    }
+}

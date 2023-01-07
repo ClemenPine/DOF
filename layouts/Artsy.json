@@ -1,0 +1,15 @@
+{
+    "name": "Artsy",
+    "authors": [
+        "ClemenPine"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "q w d c g  j l u , '",
+            "a r t s y  v n e o i",
+            "z x p f b  k m / . ;",
+            "h                   "
+        ]
+    }
+}

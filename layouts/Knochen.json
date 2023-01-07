@@ -1,0 +1,14 @@
+{
+    "name": "Knochen",
+    "authors": [
+        "Sagittarius"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "v . u a y  f c l b j '",
+            "h s i e o  g d n t r q",
+            "k , \u00fc \u00e4 \u00f6  z m w p x  "
+        ]
+    }
+}

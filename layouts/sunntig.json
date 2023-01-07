@@ -1,0 +1,14 @@
+{
+    "name": "sunntig",
+    "authors": [
+        "Oxey"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "z m l b p  ' , o u \u00fc q",
+            "h s n t g  . r e i a x",
+            "k f w d v  j c \u00e4 y \u00f6  "
+        ]
+    }
+}

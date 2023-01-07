@@ -1,0 +1,14 @@
+{
+    "name": "pinball",
+    "authors": [
+        "ClemenPine"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "z k d w q  j y o u ;",
+            "n t h r v  c s e i a",
+            "p b m l x  f g ' , ."
+        ]
+    }
+}

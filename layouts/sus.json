@@ -1,0 +1,14 @@
+{
+    "name": "sus",
+    "authors": [
+        "Oxey"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "x p d g w  q f o u .",
+            "r n t s y  j l a e i",
+            "z b k c v  m h ' ; ,"
+        ]
+    }
+}

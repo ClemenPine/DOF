@@ -1,0 +1,14 @@
+{
+    "name": "Oneproduct",
+    "authors": [
+        "KLCord"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "p l d w g  j x o y q",
+            "n r s t m  u a e i h",
+            "z c f v b  , . ' ; k"
+        ]
+    }
+}

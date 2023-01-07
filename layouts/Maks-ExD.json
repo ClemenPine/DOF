@@ -1,0 +1,15 @@
+{
+    "name": "Maks-ExD",
+    "authors": [
+        "CN"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "; , u p .  b f l j z",
+            "a o i t g  w s n r h",
+            "/ ' y d k  v c m x q",
+            "e                   "
+        ]
+    }
+}

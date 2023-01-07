@@ -1,0 +1,15 @@
+{
+    "name": "narts",
+    "authors": [
+        "ClemenPine"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "q w l g j  / f u y '",
+            "n r t s c  p h e i o",
+            "z x m b v  k d ; , .",
+            "a                   "
+        ]
+    }
+}

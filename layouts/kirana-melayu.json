@@ -1,0 +1,14 @@
+{
+    "name": "kirana-melayu",
+    "authors": [
+        "adi.lela"
+    ],
+    "board": "angle",
+    "layers": {
+        "main": [
+            "' u m c w  v f o . z",
+            "r i k t l  h n a e s",
+            "x ; y d g  b p q , j"
+        ]
+    }
+}

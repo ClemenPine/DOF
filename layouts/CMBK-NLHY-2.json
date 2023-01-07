@@ -1,0 +1,14 @@
+{
+    "name": "CMBK-NLHY-2",
+    "authors": [
+        "bye"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "x c m b k  q l o u  ",
+            "r s t h d  y n e i a",
+            "z w g p f  j v      "
+        ]
+    }
+}

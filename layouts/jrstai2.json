@@ -1,0 +1,14 @@
+{
+    "name": "jrstai2",
+    "authors": [
+        "lexycorn"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "r w o p b  y i m d a",
+            "s f g h j  k l ' u ,",
+            "q e x v c  t z n / ."
+        ]
+    }
+}

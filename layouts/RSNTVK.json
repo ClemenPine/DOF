@@ -1,0 +1,14 @@
+{
+    "name": "RSNTVK",
+    "authors": [
+        "bye"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "x c l b j  q f o u  ",
+            "r s n t g  y h e i a",
+            "z w m d v  k p      "
+        ]
+    }
+}

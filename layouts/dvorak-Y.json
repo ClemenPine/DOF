@@ -1,0 +1,15 @@
+{
+    "name": "dvorak-Y",
+    "authors": [
+        "ClemenPine"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "' , u p j  q f l r c  ",
+            "a o e y g  d h t n s -",
+            "; . / k x  b m w v z  ",
+            "i                     "
+        ]
+    }
+}

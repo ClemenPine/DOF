@@ -1,0 +1,14 @@
+{
+    "name": "piece",
+    "authors": [
+        "ClemenPine"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "z d h w x  q y o u '",
+            "s t n r v  p c e i a",
+            "f b m l j  k g ; , ."
+        ]
+    }
+}

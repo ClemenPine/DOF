@@ -1,0 +1,14 @@
+{
+    "name": "dvimcat",
+    "authors": [
+        "Donji"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "w p d g f  , . u o y",
+            "r n t s b  j h e a i",
+            "x v m c z  k l ' ; q"
+        ]
+    }
+}

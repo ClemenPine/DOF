@@ -1,0 +1,14 @@
+{
+    "name": "ctgap-ev",
+    "authors": [
+        "EV"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "w c l b v  j f o u ,",
+            "r s n t g  y h e i a",
+            "x z m p q  k d ' . /"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "name": "nordac",
+    "authors": [
+        "VB"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "b c m p k  q w o u \u00f6  ",
+            "n s t h d  j r a e i '",
+            "x g v y f  . z l \u00e4 \u00e5 ,"
+        ]
+    }
+}

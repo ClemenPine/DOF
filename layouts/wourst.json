@@ -1,0 +1,14 @@
+{
+    "name": "wourst",
+    "authors": [
+        "TKwolf13"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "v l n g f  j b q y /",
+            "u r s t d  h i e a o",
+            "w x m c z  k p ' , ."
+        ]
+    }
+}

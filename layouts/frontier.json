@@ -1,0 +1,14 @@
+{
+    "name": "frontier",
+    "authors": [
+        "oodarioo"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "z m u a q  p w h l y",
+            "c s i e o  d t n r f",
+            "v x ; ' j  b g . , k"
+        ]
+    }
+}

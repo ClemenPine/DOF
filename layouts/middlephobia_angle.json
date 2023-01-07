@@ -1,0 +1,14 @@
+{
+    "name": "middlephobia_angle",
+    "authors": [
+        "lexycorn"
+    ],
+    "board": "angle",
+    "layers": {
+        "main": [
+            "w c d l '  z p u o y",
+            "r s t h x  , n e a i",
+            "g f m v ;  . b k q j"
+        ]
+    }
+}

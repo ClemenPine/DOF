@@ -1,0 +1,14 @@
+{
+    "name": "FREQ2",
+    "authors": [
+        "bye"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "q l d m k  j y o u  ",
+            "r n s t f  b h a e i",
+            "z p w g v  x c      "
+        ]
+    }
+}

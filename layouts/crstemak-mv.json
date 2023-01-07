@@ -1,0 +1,15 @@
+{
+    "name": "crstemak-mv",
+    "authors": [
+        "GNU\u5148\u8f29"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "j w f p k  x l u y '",
+            "c r s t b  v n a i o",
+            "z m g d q  ; h , . /",
+            "e                   "
+        ]
+    }
+}

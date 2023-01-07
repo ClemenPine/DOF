@@ -1,0 +1,14 @@
+{
+    "name": "Koy",
+    "authors": [
+        "KLCord"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "k . o , y  v g c l \u00df z '",
+            "h a e i u  d t r n s f  ",
+            "x q \u00e4 \u00fc \u00f6  b p w m j    "
+        ]
+    }
+}

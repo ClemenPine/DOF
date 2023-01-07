@@ -1,0 +1,14 @@
+{
+    "name": "stag",
+    "authors": [
+        "bye"
+    ],
+    "board": "stagger",
+    "layers": {
+        "main": [
+            "x l h m j  q w o u  ",
+            "k r n t b  f s e i a",
+            "v p d g z  y c      "
+        ]
+    }
+}

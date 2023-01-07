@@ -1,0 +1,15 @@
+{
+    "name": "ceramiQ",
+    "authors": [
+        "ClemenPine"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "x c r m q  / f u y '",
+            "l s n t d  p h e i o",
+            "w v z g j  k b ; , .",
+            "a                   "
+        ]
+    }
+}

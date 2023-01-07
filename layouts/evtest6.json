@@ -1,0 +1,15 @@
+{
+    "name": "evtest6",
+    "authors": [
+        "unknown"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "p w l c f  . u o y '",
+            "n r t d g  , i e h a",
+            "q j m b v  ; - = k /",
+            "z s x               "
+        ]
+    }
+}

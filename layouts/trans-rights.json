@@ -1,0 +1,14 @@
+{
+    "name": "trans-rights",
+    "authors": [
+        "lexycorn"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "i o u g p  z d l h v",
+            "y a e c '  j t r n s",
+            "/ . , w f  q k m b x"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "name": "RSNT-lnm",
+    "authors": [
+        "bye"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "x c l d k  q y o u  ",
+            "r s n t b  p h a e i",
+            "z w m g v  j f      "
+        ]
+    }
+}

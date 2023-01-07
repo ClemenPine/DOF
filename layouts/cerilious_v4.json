@@ -1,0 +1,15 @@
+{
+    "name": "cerilious_v4",
+    "authors": [
+        "cerilious"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "c l f y v  z o u b m",
+            "d r s t q  . a i n h",
+            "w j g p      ' , x k",
+            "e                   "
+        ]
+    }
+}

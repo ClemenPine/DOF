@@ -1,0 +1,15 @@
+{
+    "name": "test2",
+    "authors": [
+        "unknown"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "v l d m g  - u o y f",
+            "s r t c p  . a e i h",
+            "q j k w x  / , ' ;  ",
+            "b n z               "
+        ]
+    }
+}

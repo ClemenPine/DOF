@@ -1,0 +1,14 @@
+{
+    "name": "rollmaky",
+    "authors": [
+        "Apsu"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "q w f p b  z l u o ;  ",
+            "c r s t g  m n e a i '",
+            "y x v d k  j h / , .  "
+        ]
+    }
+}

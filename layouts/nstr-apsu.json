@@ -1,0 +1,14 @@
+{
+    "name": "nstr-apsu",
+    "authors": [
+        "Apsu"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "p g d l j  k y o u '",
+            "n s t r x  v h e i a",
+            "b c m w q  z f , . /"
+        ]
+    }
+}

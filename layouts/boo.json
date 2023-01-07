@@ -1,0 +1,14 @@
+{
+    "name": "boo",
+    "authors": [
+        "KLCord"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            ", . u c v  q f d l y",
+            "a o e s g  b n t r i",
+            "; x ' w z  p h m k j"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "name": "fck",
+    "authors": [
+        "dustyn"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "q f c k x  ' w o u z",
+            "r s t h d  v n a i l",
+            "y b g p ,  / m . ; j",
+            "e                   "
+        ]
+    }
+}

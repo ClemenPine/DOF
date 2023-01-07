@@ -1,0 +1,14 @@
+{
+    "name": "querty",
+    "authors": [
+        "unknown"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "q u e r t  y w i o p  ",
+            "a s d f g  h j k l ; '",
+            "z x c v b  n m , . /  "
+        ]
+    }
+}

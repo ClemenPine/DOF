@@ -1,0 +1,14 @@
+{
+    "name": "Neo",
+    "authors": [
+        "KLCord"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "x v l c w  k h g f q \u00df '",
+            "u i a e o  s n r t d y  ",
+            "\u00fc \u00f6 \u00e4 p z  b m , . j    "
+        ]
+    }
+}

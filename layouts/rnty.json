@@ -1,0 +1,15 @@
+{
+    "name": "rnty",
+    "authors": [
+        "ClemenPine"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "q l d w g  / f o u ;",
+            "r n t y c  b h e i a",
+            "x z m p j  k v ' , .",
+            "s                   "
+        ]
+    }
+}

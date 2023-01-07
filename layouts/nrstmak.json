@@ -1,0 +1,14 @@
+{
+    "name": "nrstmak",
+    "authors": [
+        "ClemenPine"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "q w y p b  j k o u ,",
+            "n r s t d  l h a e i",
+            "z x c f g  v m ' ; ."
+        ]
+    }
+}

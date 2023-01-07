@@ -1,0 +1,14 @@
+{
+    "name": "Dvormax",
+    "authors": [
+        "KLCord"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "k y u . ?  z l m d p v",
+            "r i e a o  h n s t c w",
+            "x ) ' , (  j q f g b  "
+        ]
+    }
+}

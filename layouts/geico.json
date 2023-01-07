@@ -1,0 +1,15 @@
+{
+    "name": "geico",
+    "authors": [
+        "ClemenPine"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "w l d f q  / y o u ;",
+            "r n t h v  g c e i a",
+            "x j m b k  z p ' , .",
+            "s                   "
+        ]
+    }
+}

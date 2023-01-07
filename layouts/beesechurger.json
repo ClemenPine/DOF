@@ -1,0 +1,14 @@
+{
+    "name": "beesechurger",
+    "authors": [
+        "furtissim2"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "' l u c w  k g h , j",
+            "a r e s f  p t n i o",
+            "z x ; y v  b d m . q"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "name": "isrtgap",
+    "authors": [
+        "ClemenPine"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "x c l g j  z y o u ;",
+            "n s r t m  p h e i a",
+            "q v w d b  k f ' , ."
+        ]
+    }
+}

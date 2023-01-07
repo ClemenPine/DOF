@@ -1,0 +1,14 @@
+{
+    "name": "Wreath",
+    "authors": [
+        "KLCord"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "j g d f b  q l u o y",
+            "n s t h k  w r e a i",
+            "x c m p v  z , . ' /"
+        ]
+    }
+}

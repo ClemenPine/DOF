@@ -1,0 +1,14 @@
+{
+    "name": "Steady",
+    "authors": [
+        "ClemenPine"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "x l c g q  z y o u ;",
+            "n r s t d  b h e i a",
+            "j v w m k  p f ' , ."
+        ]
+    }
+}

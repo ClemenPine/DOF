@@ -1,0 +1,14 @@
+{
+    "name": "rnst02",
+    "authors": [
+        "RusDoomer"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "x b l m v  g p u o ,",
+            "r n s t d  y c e a i",
+            "z h j k q  w f ; ' ."
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Snug",
+    "authors": [
+        "KLCord"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "q l d m b  y f o u '",
+            "s r t c g  p n e i a",
+            "z x k w v  j h / , ."
+        ]
+    }
+}

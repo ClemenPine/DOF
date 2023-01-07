@@ -1,0 +1,14 @@
+{
+    "name": "real-vim",
+    "authors": [
+        "Donji"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "w c h f z  q o u l y",
+            "m s n t d  , a e r i",
+            "v g b k p  . j ' x ;"
+        ]
+    }
+}

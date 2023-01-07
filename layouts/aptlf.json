@@ -1,0 +1,15 @@
+{
+    "name": "aptlf",
+    "authors": [
+        "GNU\u5148\u8f29"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "q c m p k  j y o u '",
+            "r s t h b  x n e i a",
+            "z w g d v  - f / , .",
+            "l                   "
+        ]
+    }
+}

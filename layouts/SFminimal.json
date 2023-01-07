@@ -1,0 +1,15 @@
+{
+    "name": "SFminimal",
+    "authors": [
+        "ClemenPine"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "x v h w /  q d o y ,",
+            "r s n c p  g t a u i",
+            "z j l f b  k m ' ; .",
+            "e                   "
+        ]
+    }
+}

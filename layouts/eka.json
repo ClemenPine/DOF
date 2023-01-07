@@ -1,0 +1,14 @@
+{
+    "name": "eka",
+    "authors": [
+        "adi.lela"
+    ],
+    "board": "angle",
+    "layers": {
+        "main": [
+            "v p d l q  j f o u ,",
+            "s n t r k  y c a e i",
+            "b m h z x  w g ' ; ."
+        ]
+    }
+}

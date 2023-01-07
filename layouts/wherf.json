@@ -1,0 +1,15 @@
+{
+    "name": "wherf",
+    "authors": [
+        "GalileoBlues"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "f l h k z  ' w u q .",
+            "s r n t v  y c a o i",
+            "x j b d m  p g ; , /",
+            "e                   "
+        ]
+    }
+}

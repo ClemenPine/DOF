@@ -1,0 +1,14 @@
+{
+    "name": "heartae",
+    "authors": [
+        "ehhe 1"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "q c d v k  j y o u ;  ",
+            "r s t h l  p n e i a '",
+            "w g b m x  z f , . /  "
+        ]
+    }
+}

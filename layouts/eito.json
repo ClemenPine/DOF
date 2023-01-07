@@ -1,0 +1,14 @@
+{
+    "name": "eito",
+    "authors": [
+        "ClemenPine"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "q u d ' ;  j c h l p",
+            "e i t o ,  w s n r y",
+            "z x m a .  f g b v k"
+        ]
+    }
+}

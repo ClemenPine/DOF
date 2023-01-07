@@ -1,0 +1,14 @@
+{
+    "name": "AdNW",
+    "authors": [
+        "KLCord"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "k u \u00fc . \u00e4  v g c l j f '",
+            "h i e a o  d t r n s \u00df  ",
+            "x y \u00f6 , q  b p w m z    "
+        ]
+    }
+}

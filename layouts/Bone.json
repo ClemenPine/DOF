@@ -1,0 +1,14 @@
+{
+    "name": "Bone",
+    "authors": [
+        "KLCord"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "j d u a x  p h l m w \u00df '",
+            "c t i e o  b n r s g q  ",
+            "f v \u00fc \u00e4 \u00f6  y z , . k    "
+        ]
+    }
+}

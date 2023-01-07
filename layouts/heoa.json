@@ -1,0 +1,15 @@
+{
+    "name": "heoa",
+    "authors": [
+        "ClemenPine"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "w l d g j  z y u , ;",
+            "r n t s c  p h e o a",
+            "x q m b v  k f / . '",
+            "i                   "
+        ]
+    }
+}

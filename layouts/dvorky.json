@@ -1,0 +1,14 @@
+{
+    "name": "dvorky",
+    "authors": [
+        "ClemenPine"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "b y u , .  v c l r f",
+            "h i e o a  g d t n s",
+            "k j ' ; z  p w m q x"
+        ]
+    }
+}

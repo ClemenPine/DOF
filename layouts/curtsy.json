@@ -1,0 +1,15 @@
+{
+    "name": "curtsy",
+    "authors": [
+        "<3"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "g l d v x  j p o u  ",
+            "c r t s y  b n a i e",
+            "w q m f z  / , ' .  ",
+            "k h                 "
+        ]
+    }
+}

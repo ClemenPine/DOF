@@ -1,0 +1,14 @@
+{
+    "name": "nstd",
+    "authors": [
+        "Oxey"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "b f m c p  z l o u ,",
+            "n s t d y  j r a e i",
+            "q v k g w  x h ' ; ."
+        ]
+    }
+}

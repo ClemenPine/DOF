@@ -1,0 +1,14 @@
+{
+    "name": "Vou",
+    "authors": [
+        "KLCord"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "v . o u \u00e4  q g l h f j '",
+            "c a e i y  b t r n s \u00df  ",
+            "z x , \u00fc \u00f6  p d w m k    "
+        ]
+    }
+}

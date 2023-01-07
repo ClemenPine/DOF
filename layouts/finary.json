@@ -1,0 +1,15 @@
+{
+    "name": "finary",
+    "authors": [
+        "Bj\u00f6rnflugel"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "w l y p b  ' z o u ;",
+            "c r s t g  m n e i a",
+            "x j v d k  q h , . /",
+            "f                   "
+        ]
+    }
+}

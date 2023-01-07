@@ -1,0 +1,14 @@
+{
+    "name": "em0gus",
+    "authors": [
+        "Oxey"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "v k r c p  j f o u .",
+            "s t n d y  q l a e i",
+            "z b x g w  m h ' ; ,"
+        ]
+    }
+}

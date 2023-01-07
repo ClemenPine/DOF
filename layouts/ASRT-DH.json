@@ -1,0 +1,14 @@
+{
+    "name": "ASRT-DH",
+    "authors": [
+        "bye"
+    ],
+    "board": "stagger",
+    "layers": {
+        "main": [
+            "q w l m b  j f u y  ",
+            "a s r t g  p n e i o",
+            "z x c d v  k h      "
+        ]
+    }
+}

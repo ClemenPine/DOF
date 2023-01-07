@@ -1,0 +1,15 @@
+{
+    "name": "draise",
+    "authors": [
+        "cerilious"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "c l m h b  ' o y g ,",
+            "d r t n p  x a i s u",
+            "w j k f      . q z v",
+            "e                   "
+        ]
+    }
+}

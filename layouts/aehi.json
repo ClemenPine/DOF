@@ -1,0 +1,14 @@
+{
+    "name": "aehi",
+    "authors": [
+        "bye"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "x c l d k  - o u y q j",
+            "r s n t g  / a e h i v",
+            "; f w m b  ' , . p z  "
+        ]
+    }
+}

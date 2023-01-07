@@ -1,0 +1,14 @@
+{
+    "name": "Fnerb",
+    "authors": [
+        "KLCord"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "t w g s b  q l n a y  ",
+            "r h j k d  u p e o i ;",
+            "x f m z c  v ' , . /  "
+        ]
+    }
+}

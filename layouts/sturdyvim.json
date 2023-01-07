@@ -1,0 +1,14 @@
+{
+    "name": "sturdyvim",
+    "authors": [
+        "Donji"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "v m l c p  q f o u x  ",
+            "s t r d y  . n a e i -",
+            "z k j g w  b h ' ; ,  "
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "name": "royally_f'ed",
+    "authors": [
+        "lexycorn"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "w c v l    ' p o u y",
+            "r s t h q  z n a e i",
+            "x g k m /    b , . j",
+            "f d                 "
+        ]
+    }
+}

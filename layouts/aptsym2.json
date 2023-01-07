@@ -1,0 +1,14 @@
+{
+    "name": "aptsym2",
+    "authors": [
+        "Apsu"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "q c k v '  / p u o y",
+            "r s t l m  b n e a i",
+            "w g d h ,  . f z x j"
+        ]
+    }
+}

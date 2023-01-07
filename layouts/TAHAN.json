@@ -1,0 +1,14 @@
+{
+    "name": "TAHAN",
+    "authors": [
+        "KLCord"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "t a h z y  x u i o p .",
+            "q v g r s  n k b l w ,",
+            "m f e c d  j ' ; / -  "
+        ]
+    }
+}
