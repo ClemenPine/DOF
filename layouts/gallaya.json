@@ -1,0 +1,14 @@
+{
+    "name": "gallaya",
+    "authors": [
+        "dunk2k"
+    ],
+    "board": "ortho",
+    "layers": {
+        "main": [
+            "b l d c z  j f o u ,",
+            "n r t s g  p h a e i",
+            "q x m w v  k y ' ; ."
+        ]
+    }
+}

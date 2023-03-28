@@ -1,0 +1,14 @@
+{
+    "name": "gallaya_angle",
+    "authors": [
+        "dunk2k"
+    ],
+    "board": "angle",
+    "layers": {
+        "main": [
+            "b l d c q  j f o u ,",
+            "n r t s g  p h a e i",
+            "x m w v z  k y ' ; ."
+        ]
+    }
+}
